@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Raflie-P5_Website_React/static/css/main.e6c13ad2.css",
+    "main.js": "/Raflie-P5_Website_React/static/js/main.53c283cb.js",
+    "static/js/453.82489804.chunk.js": "/Raflie-P5_Website_React/static/js/453.82489804.chunk.js",
+    "index.html": "/Raflie-P5_Website_React/index.html",
+    "main.e6c13ad2.css.map": "/Raflie-P5_Website_React/static/css/main.e6c13ad2.css.map",
+    "main.53c283cb.js.map": "/Raflie-P5_Website_React/static/js/main.53c283cb.js.map",
+    "453.82489804.chunk.js.map": "/Raflie-P5_Website_React/static/js/453.82489804.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.53c283cb.js"
+  ]
+}
